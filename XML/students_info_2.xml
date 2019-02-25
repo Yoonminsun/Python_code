@@ -1,0 +1,81 @@
+﻿<student_list>
+	<student ID="ITT001"  name="이영호" sex="남">
+		<age>45</age>
+		<major>경영학</major>
+		<practicable_computer_languages />
+	</student>
+	<student ID="ITT002" name="윤민선" sex="여">
+		<age>25</age>
+		<major>컴퓨터 공학</major>
+		<practicable_computer_languages>
+			<language name="C" level="중">
+				<period value="1년" />
+			</language>
+			<language name="Java" level="하">
+				<period value="1년" />
+			</language>
+			<language name="C++" level="하">
+				<period value="6개월" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT003" name="김상민" sex="남">
+		<age>30</age>
+		<major>전자 공학</major>
+		<practicable_computer_languages>
+			<language name="C" level="하">
+				<period value="6개월" />
+			</language>
+		<language name="C++" level="하">
+			<period value="6개월" />
+		</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT004" name = "이세중" sex="남">
+		<age>30</age>
+		<major>정치외교</major>
+		<practicable_computer_languages />	
+	</student>
+	<student ID="ITT005" name="박규동" sex="남">
+		<age>29</age>
+		<major>천문우주과학</major>
+		<practicable_computer_languages>
+			<language name="Java" level="중">
+				<period value="2년 6개월" />
+			</language>
+			<language name = "Ruby" level="중하">
+				<period value="6개월" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT006" name="김치우" sex="남">
+		<age>30</age>
+		<major>신문방송학</major>
+		<practicable_computer_languages />
+	</student>
+	<student ID="ITT007" name='민현기' sex='남'>
+		<age>28</age>
+		<major>통계빅데이터</major>
+		<practicable_computer_languages>
+			<language name= 'sas' level='중'>
+				<period value = '1년' />
+			</language>
+			<language name= 'R' level='하'>
+				<period value = '1년' />
+			</language>
+		</practicable_computer_languages>
+	</student>
+	<student ID="ITT008" name="이정헌" sex="남">
+		<age>30</age>
+		<major>전자 공학</major>
+		<practicable_computer_languages>
+			<language name="C" level="중">
+				<period value="1년" />
+			</language>
+			<language name="Verilog" level="하">
+				<period value="3개월" />
+			</language>
+		</practicable_computer_languages>
+	</student>
+</student_list>
+
