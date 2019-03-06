@@ -1,0 +1,33 @@
+[
+    
+    {
+        "baseDate": 20190305,
+        "baseTime": 1330,
+        "category": "RN1",
+        "fcstDate": 20190305,
+        "fcstTime": 1400,
+        "fcstValue": 0,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190305,
+        "baseTime": 1330,
+        "category": "T1H",
+        "fcstDate": 20190305,
+        "fcstTime": 1400,
+        "fcstValue": 15,
+        "nx": 89,
+        "ny": 91
+    },
+    {
+        "baseDate": 20190305,
+        "baseTime": 1330,
+        "category": "REH",
+        "fcstDate": 20190305,
+        "fcstTime": 1400,
+        "fcstValue": 25,
+        "nx": 89,
+        "ny": 91
+    }
+]
