@@ -1,3 +1,4 @@
+https://github.com/kairess/genetic_dino
 # Genetic Dino
 
 ![result.gif](https://github.com/kairess/genetic_dino/raw/master/result.gif)
